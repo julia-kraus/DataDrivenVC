@@ -1,0 +1,686 @@
+
+
+
+
+
+
+
+
+Home
+About
+Tech
+History
+Team
+Career
+News
+Contact
+Reach out to us atinfo@planqc.eu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          planqc
+        
+
+
+          creating quantum computersatom by atom
+        
+
+          Our processors use atoms in artificial crystals of light:the fastest way to scale to useful quantum advantage.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+planqc in a nutshell
+
+
+planqc in a nutshell
+
+
+              planqc's quantum computers store information in individual atoms â nature's best qubits. Quantum information is processed by arranging these qubits in highly scalable arrays and manipulating them with precisely controlled laser pulses. planqcâs unique combination of quantum technologies is the fastest way to scale to thousands of qubits, a prerequisite for industry-relevant quantum advantage.
+            
+
+              planqc's founding team combines decades of international research on neutral-atom quantum technologies. Our quantum computers are built on the precision of the worldâs best atomic clocks, the worldâs best quantum gas microscopes, and high-speed Rydberg gates.
+            
+
+              planqc is the first startup to emerge from the Munich Quantum Valley, which with its vast network of research institutes and industrial partners fosters a unique quantum ecosystem for startups.
+            
+
+
+
+
+
+
+
+atoms for quantum computing
+
+
+
+
+
+
+Identical qubits
+Qubits encoded in neutral atoms are identical by nature and thus are highly scalable
+
+
+
+
+
+Flexible connectivity
+Atoms can be arranged in large one-, two- and three-dimensional geometries and can be individually addressed using advanced quantum gas microscopes
+
+
+
+
+
+
+
+Fast gates
+Highly excited Rydberg states enable fast two-qubit gates using laser light
+
+
+
+
+
+Extreme coherence
+Quantum information can be stored in atomic qubits for seconds because they are well protected from the environment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+planqc history
+
+
+
+
+
+
+2008Optical clock qubit
+Optical lattice clock using strontium optical qubit
+                  surpasses the cesium standard (Sebastian Blatt)
+                  
+
+
+
+
+
+
+2011Quantum gas microscope
+
+                  Single atoms in optical lattices are detected and
+                  controlled with a quantum gas microscope (Immanuel Bloch)
+                  
+
+
+
+
+
+
+2015Rydberg atoms
+
+                  More than one hundred atoms in a lattice are entangled with
+                  a gate based on Rydberg interactions (Johannes Zeiher)
+                  
+
+
+
+
+
+
+2021Scaling up optical lattices
+
+                  Cavity-enhanced optical lattices enable scaling up
+                  the number of qubits(Sebastian Blatt)
+                  
+
+
+
+
+
+
+
+
+
+
+
+Since 2021
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Munich Quantum Valley is founded
+
+
+
+
+
+ 
+planqc is founded as the first Munich Quantum
+                    Valley startup by Alexander GlÃ¤tzle, Sebastian
+                    Blatt, Johannes Zeiher, Lukas ReichsÃ¶llner,
+                    Ann-Kristin Achleitner, and Markus Wagner
+                
+
+
+
+
+
+ 
+planqc closes funding round led by UVC Partners and
+                  Speedinvest.
+                
+
+
+
+
+
+ 
+planqc graduates fromCreative Destruction Lab
+                    startup incubator as the
+                    winner of the2022 Quantum Stream
+                
+
+
+
+
+
+
+
+
+planqc team
+
+
+
+
+Alexander GlÃ¤tzle
+Co-founder & CEO
+
+
+
+
+
+
+
+Sebastian Blatt
+Co-founder & CTO
+
+
+
+
+
+
+
+Johannes Zeiher
+Co-founder &Principal Scientist
+
+
+
+
+
+
+
+Lukas ReichsÃ¶llner
+Co-founder &Quantum Engineering
+
+
+
+
+
+
+
+
+Stepan Snigirev
+Quantum Engineering
+
+
+
+
+
+
+
+Isabella Fritsche
+Quantum Engineering
+
+
+
+
+
+
+
+JÃ¡nos Biswas
+Mechanical Engineering
+
+
+
+
+
+
+Lukas Fischer
+Electrical Engineering
+
+
+
+
+
+
+
+
+
+Adrian Vetter
+Software Engineering
+
+
+
+
+
+
+Luna Cesari
+Software Engineering
+
+
+
+
+
+
+Daniel Haag
+Software Engineering
+
+
+
+
+
+
+Giacomo Giudice
+Quantum Algorithms
+
+
+
+
+
+
+
+
+
+Giuliano Giudici
+Quantum Algorithms
+
+
+
+
+
+
+
+Alexandru Paler
+Fault-tolerantQuantum Computing
+
+
+
+
+
+
+Melanie de Gama
+Marketing &Communications
+
+
+
+
+
+
+
+
+Ann-Kristin Achleitner
+Co-founder & Board member
+
+
+
+
+
+
+
+Markus Wagner
+Co-founder &Business strategist
+
+
+
+
+
+
+Thomas Lange
+Business development
+
+
+
+
+
+
+Simona HÃ¼bl
+Business development
+
+
+
+
+
+
+
+
+Benjamin Erhart
+Board member
+
+
+
+
+
+
+Amanda Birkenholz
+Board observer
+
+
+
+
+
+
+Emily Meads
+Board member
+
+
+
+
+
+
+
+
+Immanuel Bloch
+Scientific Advisor
+
+
+
+
+
+
+
+J. Ignacio Cirac
+Scientific Advisor
+
+
+
+
+
+
+
+Dieter Jaksch
+Scientific Advisor
+
+
+
+
+
+
+
+Markus MÃ¼ller
+Scientific Advisor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We are hiring.Join us!
+
+
+
+
+Quantum engineers
+contact us at jobs@planqc.eu
+
+
+
+Electronic engineers
+contact us at jobs@planqc.eu
+
+
+
+Mechanical engineers
+contact us at jobs@planqc.eu
+
+
+
+Software engineers
+contact us at jobs@planqc.eu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            planqc
+            news
+          
+
+
+
+
+Ann-Kristin Achleitner
+Board member & Co-founder
+
+
+Welcome to the board!
+September 21, 2022
+
+              Quantum computing is one of the key technologies of the coming decades.
+              planqc's world-class team has the best qualifications to play a key role
+              in driving development forward.
+            
+
+              We are proud to announce that the business expert, multi-board member, and
+              investor Ann-Kristin Achleitner has joined planqc's advisory board. She
+              will advise our management team on strategic and financing issues.
+            
+
+ Read more
+
+
+
+
+
+
+
+
+
+            planqc
+            and its
+            founders
+            in the
+            news
+          
+
+
+
+
+
+                2022-09-14
+              
+
+                Forbes magazine features an article about planqc and its plans for
+                the first quantum computer made in Germany.
+                
+
+
+
+
+                2022-08-07
+              
+
+                1E9 features an article about planqc and its plans for
+                the first quantum computer made in Germany. The
+                article is based on an interview by Wolfgang Kerler with Sebastian Blatt.
+                
+                An english translation by Katharina Jarrah is available on the MPQ website.
+                
+
+
+
+
+                2022-06-30
+              
+
+                Handelsblatt features planqc as the start-up
+                which raises hopes to build the first quantum computer made in Germany.
+                
+
+
+
+
+                2022-06-09
+              
+                Handelsblatt, Germanyâs leading business newspaper,
+                features planqc based on interviews by Larissa Holzki
+                with Sebastian Blatt and Ignacio Cirac.
+            
+
+
+                2021-12-22
+              
+
+                Hubert Aiwanger, Bavarian Minister of Economic Affairs
+                gets a lab tour by Sebastian Blatt at the
+                Max-Planck-Institute of Quantum
+                Optics.
+                
+
+
+
+
+                2021-11-15
+              
+
+                SÃ¼ddeutsche Zeitung, one of the largest newspapers in
+                Germany, features an article based on interviews by
+                Helmut Martin-Jung with Sebastian Blatt and Ignacio
+                Cirac.
+              .
+            
+
+
+                2021-09-16
+              
+
+                Angela Merkel, German chancellor, and Markus SÃ¶der,
+                Bavarian prime minister, visit Immanuel Bloch's labs at
+                the Max-Planck-Institute of Quantum Optics and get a lab tour by Johannes Zeiher.
+                
+
+
+
+
+
+
+
+
+
+Is your
+business
+ready for
+quantum
+advantage?
+
+
+
+          Reach out to us at
+          info@planqc.eu
+
+
+
+
+
+
+
+Imprint
+Privacy policy
+
+
+LinkedIn
+Twitter
+
+
+
+          Copyright Â© 2022
+          PlanQC GmbH
+          Lichtenbergstr. 8
+          85748 Garching
+          Germany
+        
+
+
+
+
+

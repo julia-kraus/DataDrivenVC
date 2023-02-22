@@ -1,0 +1,11 @@
+
+*/__pycache__/
+
+# pycharm cache
+*.idea/
+
+# pytest cache
+*/.pytest_cache/
+
+# test coverage report
+.coverage
