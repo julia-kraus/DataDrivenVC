@@ -8,4 +8,4 @@
 */.pytest_cache/
 
 # test coverage report
-.coverage
+.coverage/
